@@ -1,5 +1,5 @@
 # Computer Vision with Python: Real-time Object Detection and Tracking
-Deep Learning model for live video object detection and tracking , using pre-trained YOLOv5s and DeepSORT.
+Deep Learning model for live video object detection and tracking , using pre-trained YOLOv5 and DeepSORT.
 
 Video: https://youtu.be/r3nYpwrkDjE
 
